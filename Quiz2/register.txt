@@ -1,0 +1,2 @@
+1,2,1,& C:/Users/shobh/AppData/Local/Programs/Python/Python313/python.exe c:/Quiz2/quiz2.py
+0103CS221383,Shobhit,1806,LNCT
